@@ -1,0 +1,34 @@
+{
+  "order": 3,
+  "title": "frameworks",
+  "items": [
+    {
+      "badge": "-Node.js-339933?logo=Node.js",
+      "name": " Node.js"
+    },
+    {
+      "badge": "-Vue.js-4FC08D?logo=vue.js",
+      "name": "Vue.js"
+    },
+    {
+      "badge": "-Nuxt.js-00C58E?logo=Nuxt.js",
+      "name": "Nuxt.js"
+    },
+    {
+      "badge": "-Flutter-02569B?logo=flutter",
+      "name": "Flutter"
+    },
+    {
+      "badge": "-Laravel-FF2D20?logo=Laravel",
+      "name": "Laravel"
+    },
+    {
+      "badge": "-Bootstrap-563D7C?logo=Bootstrap",
+      "name": "Bootstrap"
+    },
+    {
+      "badge": "-Tailwind_css-563D7C?logo=Tailwind-Css",
+      "name": "TailwindCss"
+    }
+  ]
+}

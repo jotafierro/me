@@ -1,0 +1,62 @@
+{
+  "order": 1,
+  "title": "technologies",
+  "items": [
+      {
+        "badge": "-Git-F05032?logo=git",
+        "name": "Git"
+      },
+      {
+        "badge": "-VSCode-007ACC?logo=visual-studio-code",
+        "name": "VSCode"
+      },
+      {
+        "badge": "-GitHub-181717?logo=github",
+        "name": "GitHub"
+      },
+      {
+        "badge": "-Bitbucket-0052CC?logo=bitbucket",
+        "name": "Bitbucket"
+      },
+      {
+        "badge": "-Jira-0052CC?logo=jira",
+        "name": "Jira"
+      },
+      {
+        "badge": "-Trello-0079BF?logo=Trello",
+        "name": "Trello"
+      },
+      {
+        "badge": "-Azure-0089D6?logo=microsoft-azure",
+        "name": "Azure"
+      },
+      {
+        "badge": "-AWS-232F3E?logo=amazon-aws",
+        "name": "AWS"
+      },
+      {
+        "badge": "-Firebase-FFCA22?logo=firebase",
+        "name": "Firebase"
+      },
+      {
+        "badge": "-Heroku-430098?logo=heroku",
+        "name": "Heroku"
+      },
+      {
+        "badge": "-Slack-4A154B?logo=Slack",
+        "name": "Slack"
+      },
+      {
+        "badge": "-Teams-6264A7?logo=microsoft-teams",
+        "name": "Teams"
+      },
+      {
+        "badge": "-Sentry-FB4226?logo=sentry",
+        "name": "Sentry"
+      },
+      {
+        "badge": "-CircleCi-343434?logo=CircleCi",
+        "name": "CircleCi"
+      }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "order": 4,
+  "title": "databases",
+  "items": [
+    {
+      "badge": "-MongoDB-47A248?logo=MongoDB",
+      "name": "MongoDB"
+    },
+    {
+      "badge": "-PostgreSQL-336791?logo=PostgreSQL",
+      "name": "PostgreSQL"
+    },
+    {
+      "badge": "-SQLite-003B57?logo=SQLite",
+      "name": "SQLite"
+    },
+    {
+      "badge": "-MariaDB-003545?logo=MariaDB",
+      "name": "MariaDB"
+    }
+  ]
+}

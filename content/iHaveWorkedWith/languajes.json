@@ -1,0 +1,30 @@
+{
+  "order": 2,
+  "title": "languages",
+  "items": [
+    {
+      "badge": "-Javascript-F7DF1E?logo=Javascript",
+      "name": "Javascript"
+    },
+    {
+      "badge": "-Python-3776AB?logo=Python",
+      "name": "Python"
+    },
+    {
+      "badge": "-Dart-0175C2?logo=Dart",
+      "name": "Dart"
+    },
+    {
+      "badge": "-Golang-00ADD8?logo=go",
+      "name": "Golang"
+    },
+    {
+      "badge": "-Typescript-007ACC?logo=Typescript",
+      "name": "Typescript"
+    },
+    {
+      "badge": "-PHP-777BB4?logo=PHP",
+      "name": "PHP"
+    }
+  ]
+}
