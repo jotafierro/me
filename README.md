@@ -22,7 +22,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## TODO
 
 - [x] Generate presentation page
-- [ ] Continuos deployment with firebase
+- [x] Continuos deployment with firebase
 - [ ] Add sentry to monitor the application
 - [ ] Add E2E testings
 - [ ] Experience

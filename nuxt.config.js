@@ -11,6 +11,12 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    // https://firebase.google.com/docs/web/setup?authuser=1#desde-las-url-de-hosting
+    script: [
+      { src: '/__/firebase/7.23.0/firebase-app.js', body: true },
+      { src: '/__/firebase/7.23.0/firebase-analytics.js', body: true },
+      { src: '/__/firebase/init.js', body: true },
+    ],
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)

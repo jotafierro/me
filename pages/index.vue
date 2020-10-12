@@ -41,6 +41,7 @@
         <p class="mt-5">{{ $t('text.simplifyLife') }}</p>
         <p class="mt-5">{{ $t('text.family') }}</p>
       </div>
+
       <div class="px-20 pt-20 lg:pl-20 lg:px-10">
         <p class="mt-5">{{ $t('text.iHaveWorkedWith') }}</p>
         <ul class="list-disc mt-2 ml-10">
@@ -59,6 +60,7 @@
         </ul>
       </div>
     </div>
+
     <Socials />
   </div>
 </template>
