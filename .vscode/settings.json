@@ -1,5 +1,8 @@
 {
   "typescript.validate.enable": false,
   "javascript.validate.enable": false,
-  "i18n-ally.localesPaths": "lang"
+  "i18n-ally.localesPaths": "lang",
+  "i18n-ally.dirStructure": "file",
+  "i18n-ally.displayLanguage": "en",
+  "i18n-ally.enabledParsers": ["js"]
 }

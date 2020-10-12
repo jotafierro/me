@@ -6,9 +6,9 @@
     </div>
 
     <div
-      class="pt-10 lg:pt-20 flex flex-col sm:flex-col md:flex-col lg:flex-row xl:flex-row"
+      class="pt-10 flex flex-col sm:flex-col md:flex-col lg:flex-row xl:flex-row"
     >
-      <div class="pl-20 pr-20 lg:pr-0 text-justify">
+      <div class="px-20 lg:pr-0 text-justify">
         <p>{{ $t('text.welcome') }}</p>
         <h1 class="font-bold text-5xl">Jonathan Fierro Sandoval</h1>
         <h2 class="text-4xl">{{ $t('text.career') }}</h2>
@@ -34,7 +34,7 @@
                 src="~/assets/u-planner.png"
                 class="inline-block h-6 w-6 mb-2"
               />
-              Planner
+              u-planner
             </a>
           </template>
         </i18n>
@@ -46,12 +46,12 @@
         <p class="mt-5">{{ $t('text.iHaveWorkedWith') }}</p>
         <ul class="list-disc mt-2 ml-10">
           <li v-for="(list, key) in iHaveWorkedWith" :key="key">
-            <p>{{ $t(list.title) }}</p>
+            <p class="text-lg font-semibold">{{ $t(list.title) }}</p>
             <p class="my-2">
               <img
                 v-for="(item, index) in list.items"
                 :key="index"
-                class="inline-block pr-1"
+                class="inline-block pr-2"
                 :src="`https://img.shields.io/badge/${item.badge}&logoColor=fff`"
                 :alt="key"
               />

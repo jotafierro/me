@@ -12,10 +12,10 @@ export default {
       esenciales:
     `,
     essentialElements: [
-      '🚀 experiencias de alto rendimiento',
-      '🤩 la simplicidad e innovación',
-      '🧐 las buenas practicas',
-      '🤔 los desafíos de ingenio 🤯 🤪',
+      '🚀 Experiencias de alto rendimiento',
+      '🤩 Simplicidad e innovación',
+      '🧐 Buenas practicas',
+      '🤔 Desafíos de ingenio 🤯 🤪',
     ],
     currentJob: `
       Actualmente soy parte del equipo de ingeniería de {linkJob},
@@ -23,7 +23,7 @@ export default {
       significativos a diario.
     `,
     simplifyLife: `
-      puedo utilizar diferentes herramientas🛠 para generar soluciones que
+      Puedo utilizar diferentes herramientas 🛠 para generar soluciones que
       hagan la vida mas sencilla 🏖 .
     `,
     family: `
