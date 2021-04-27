@@ -25,17 +25,12 @@
         <i18n path="text.currentJob" tag="p" class="mt-5">
           <template v-slot:linkJob>
             <a
-              href="https://www.u-planner.com"
+              href="https://www.uplanner.com"
               class="text-blue-600"
               target="_blank"
-              rel="U-Planner"
+              rel="uPlanner"
+              >uPlanner</a
             >
-              <img
-                src="~/assets/u-planner.png"
-                class="inline-block h-6 w-6 mb-2"
-              />
-              u-planner
-            </a>
           </template>
         </i18n>
         <p class="mt-5">{{ $t('text.simplifyLife') }}</p>
