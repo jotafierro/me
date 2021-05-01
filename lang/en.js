@@ -15,7 +15,6 @@ export default {
       '🚀 High performance experiences',
       '🤩 Simplicity and innovation',
       '🧐 Good practices',
-      '🤔 Wit Challenges 🤯 🤪',
     ],
     currentJob: `
       I am currently part of the engineering team at {linkJob},
